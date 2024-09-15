@@ -9,7 +9,7 @@ Make sure to record evidence of your processes. You can use code snippets, scree
 Do not fill in the feedback section. The Founders and Coders team will update this with feedback on your progress.
 
 Assessment
-1. Show evidence of some of the learning outcomes you have achieved this week.
+** 1. Show evidence of some of the learning outcomes you have achieved this week.**
 [Learning outcomes...]
 
 * Learn how to work with other people. I am used to doing projects on my own and at my own pace, so I had to learn how to communicate and structure the work with my teammates.
@@ -21,7 +21,7 @@ Assessment
 * How to write in Markdown.
 
 
-3. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
+** 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.**
 [Learning outcome...]
 
 * During the first week, I struggled a lot with Git. Especially when working with my teammates, I had to remember all the steps and make sure there weren't any conflicts. I would like to continue improving in this area.
