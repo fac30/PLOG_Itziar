@@ -31,5 +31,13 @@ Assessment
 
 Feedback (For CF's)
 [Course Facilitator name]
+
+Alexander
+
 [What went well]
+
+It's great that you got everything we expected from you for this week. Even if you don't feel like you master the topics, you will be absolutely fine. Whenever you start using those concepts in your projects, you will know exactly where to look for them.
+
 [Even better if]
+
+You could go a bit more specific on enumerating and describing your learnings. Build this log like a tool you would like to use in the future. You can add code snippets (or commands) and screenshots to make your life easier in the future whenever you need to revisit a specific topic or challenge.
