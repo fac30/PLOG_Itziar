@@ -72,6 +72,14 @@ test("Calculate should make the correct math operations", () => {
 > I definitely want to revisit Ojects and Classes, and keep working with them.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Very good. I really liked that you also included testing snippets and basic TypeScript concepts.
+
 > [*Even better if*]
+
+There isn't much I can suggest to improve. It would be good to include some project planning ideas, but apart from that, it is very good.
