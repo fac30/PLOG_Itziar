@@ -17,15 +17,20 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 > Once I knew the steps and everything fell into place, coding and working on the project became much easier.
 
 > Learned the importance of Data Modelling, and why we should always take a piece of paper or a whiteboard, and discuss with the team the whats, hows, and whys, before actually coding anything:
-### Objects (Entities) and Their Attributes:
 
-1. **Quiz**:
-   - **ID**: Unique identifier for the quiz.
-   - **Name**: The name of the quiz.
-   - **Description**: A brief overview of the quiz.
-   - **Category**: The type or topic of the quiz (e.g., science, history).
-   - **Difficulty**: The difficulty level (e.g., easy, medium, hard).
-   - **Number of Questions**: How many questions are in the quiz.
+---
+
+Objects (Entities) and Their Attributes:
+
+1. Quiz:
+   - ID: Unique identifier for the quiz.
+   - Name: The name of the quiz.
+   - Description: A brief overview of the quiz.
+   - Category: The type or topic of the quiz (e.g., science, history).
+   - Difficulty: The difficulty level (e.g., easy, medium, hard).
+   - Number of Questions: How many questions are in the quiz.
+
+---
 
 > Classes and Constructors // Blueprint vs Instance
 > I had to ask ChatGPT to explain this to me as I were 10, but it worked, because I could visualize it.
