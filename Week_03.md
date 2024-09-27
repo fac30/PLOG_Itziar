@@ -59,7 +59,7 @@ class Quiz {
     this.numberOfQuestions = numberOfQuestions;
   }
 ```
-> Endpoints and using REST
+> Endpoints and REST
 > + some other functionalities --> req.params, res.status, etc.
 ```ts
 //DELETE the quiz
