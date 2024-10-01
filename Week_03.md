@@ -106,6 +106,14 @@ function add1IfNumber(n: number | boolean) {
 > I still want to dig in more on the concepts we worked with this week. I want to fully understand how to work with APIs.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Very good code snippets. You give good examples of your learnings, and it looks like you are perfectly on track with the course.
+
 > [*Even better if*]
+
+Looks like you don't feel comfortable working with topics that you don't fully master. That is great from a learning perspective, but in your next job, this will happen very often. So far you have solved all your problems. Whenever you face something new, just remember that, even if you don't have the knowledge at that moment, you have the skills and capability to learn it. You have already demonstrated this to yourself on many occasions.
