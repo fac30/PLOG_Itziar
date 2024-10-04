@@ -13,14 +13,11 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 I actually enjoyed this course, and I can see it as something that will be useful in the future.
 
 ##### Common keywords in SQL
-> To create a new table (by default there is a maximum of 2,000 columns)
-> `CREATE TABLE users (email TEXT, name TEXT)`
+* To create a new table (by default there is a maximum of 2,000 columns). `CREATE TABLE users (email TEXT, name TEXT)`
 
-> To add elements to the table
-> `INSERT INTO users (email, name) VALUES ('amir@example.com', 'Amir')
+* To add elements to the table. `INSERT INTO users (email, name) VALUES ('amir@example.com', 'Amir')
 
-> To return an array of the content from the table (* to retrieve all the info  in the table)
-> `SELECT * FROM users
+* To return an array of the content from the table (* to retrieve all the info  in the table). `SELECT * FROM users
 
 ##### Column types
 
