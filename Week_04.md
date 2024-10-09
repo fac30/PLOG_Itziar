@@ -226,6 +226,14 @@ I always think it's better to split the work and work separately to make the mos
 It has been a week with a lot of lessons. 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Great PLog Itziar, I love how you reflected your learnings on SQL and on React. Really good explanations and snippets
+
 > [*Even better if*]
+
+A wound't change a comma. Well done
