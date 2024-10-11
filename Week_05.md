@@ -264,7 +264,7 @@ And after that the entire quiz maker and quiz player was DONE and WORKING. YAY!
 As mentioned above, working as a full stack in such a big project has been challenging. Having to go back and forth, and finding what and where to change has been a challenge on its own. And although it has been quite stressful, it has also allowed me to learn A LOT. 
 In retrospect, I think the project was too big, which was not intentional but made it difficult to finish. There are still some functionalities and features that we did not have time to implement, but we had to prioritise what we wanted to work on and what we could leave out. That was a learning point as well.
 
-## bugChasing === detectiveMode 🕵🏻‍♀️
+## debugging === detectiveMode 🕵🏻‍♀️
 One of the things I struggled with was chasing the bugs and errors, and then fixing them.
 
 * number !== string
