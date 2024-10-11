@@ -281,6 +281,7 @@ It took me hours to find this, but the experience of going back and forth, step 
 Also, how satisfying is it to find a bug and fix it? 🥹
 
 * Nodemon --> `"ERR_CONNECTION_RESET"`
+
 When everything seemed to be working, and the code was correct, when clicking the Submit button, I was getting the above error in the browser.
 Opening the Inspect page in the browser, I could see that the data was successfully sending and posting, but then it was failing to fetch the data back.
 
