@@ -9,7 +9,7 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 ## Assessment
  ### 1. Show evidence of some of the learning outcomes you have achieved this week.
 
-This week in Execute Program I have been toggling between Everyday Typescript and Concurrencies. I think this is the first week that I enjoyed having those 45 minutes of music and concentrating on learning, rather than feeling I am wasting time that I could be using doing the project.
+This week in Execute Program I have been toggling between Everyday Typescript and JavaScript Concurrency. I think this is the first week that I enjoyed having those 45 minutes of music and concentrating on learning, rather than feeling I am wasting time that I could be using doing the project.
 
 ## Everyday Typescript
 
