@@ -258,6 +258,16 @@ app.get("/results/:id", (req: Request, res: Response) => {
 ```
 And after that the entire quiz maker and quiz player was DONE and WORKING. YAY!
 
+---
+
+## Avoid ChatGPT
+
+This week I have tried avoiding ChatGPT as much as possible. Yes, it's a very useful and powerful tool, but also a dangerous one. 
+Since the beginning of the Bootcamp, I have tried using it only when necessary or feeling very stuck, or to understand certain concepts better (like: explain me as I'm 10). However, I realised that the more complex the project and the tighter the deadlines, the more I would reach out to the chat. I don't like that, because I don't want to develop bad habits, and also, I don't learn much when I use it.
+
+So this week I challenged myself, and I used it as less as possible. Using other resources like Stack Overflow, or simply googling my questions.
+I found this way more helpful, because the answers are generic, and you have to fully understand them to apply the solutions to your own case. And even if it takes longer this way, the learning is also greater. 
+
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
  
 ## Full Stack Developer
