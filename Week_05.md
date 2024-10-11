@@ -172,7 +172,7 @@ app.get("/questions", (req: Request, res: Response) => {
   }
 });
 ```
-Once that was done, I could go back to the frontend and fetch the correct data, using the filter in the endpoint:
+Once that was done, I could go back to the frontend and fetch the correct data, using a query string:
 ```ts
 useEffect(() => {
     const fetchQuestions = async () => {
