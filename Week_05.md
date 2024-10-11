@@ -137,7 +137,7 @@ This week I have learned a very important thing which is the **thought process**
 ### Filtering the questions by ID
 
 So we had a list of quizzes with different categories displayed in cars, now to select a specific quiz and play it, we needed to click `Play` and navigate to the specific quiz.
-When we built our API and created specific endpoints, we only did generic ones like `"/questions"`, which means I would GET all the questions, but not the ones related to a specific quiz.
+When we built our API and created specific endpoints, we only did generic ones like `"/questions"`, which means I would `GET` all the questions, but not the ones related to a specific quiz.
 
 > So first of all, I had to go back to the backend and make a function to Filter the quizzes by ID.
 > Inside this `GET` first I will get all the Answers, and all the Questions stored in our JSON database. 
@@ -274,13 +274,13 @@ if (correctAnswer?.id === answerId) {
     }
 ``` 
 Because we are working on teams, I was using part of my team's code to build my own.
-In the frontend, part of the code that I was using was written by someone else, and answerId was returning as a `string`.
-But, in the database, the correctAnswer.id was a number.
-After writing SO many console.logs, I realised that, so I could go back to the frontend, change it for a `number`, and then it was finally working.
+In the frontend, part of the code that I was using was written by someone else, and `answerId` was returning as a `string`.
+But, in the database, the `correctAnswer`.id was a number.
+After writing SO many `console.log`s, I realised that, so I could go back to the frontend, change it for a `number`, and then it was finally working.
 It took me hours to find this, but the experience of going back and forth, step by step, checking and printing messages to find where was actually going wrong, was a huge learning.
 Also, how satisfying is it to find a bug and fix it? 🥹
 
-* Nodemon --> "ERR_CONNECTION_RESET"
+* Nodemon --> `"ERR_CONNECTION_RESET"`
 When everything seemed to be working, and the code was correct, when clicking the Submit button, I was getting the above error in the browser.
 Opening the Inspect page in the browser, I could see that the data was successfully sending and posting, but then it was failing to fetch the data back.
 
