@@ -168,7 +168,6 @@ And then as mentioned above, importing better-sqlite3 needed that extra Database
 ### ATTENTION TO DETAIL 🕵️‍♀️
 This week again, I had to be a detective bug-chasing.
 This time it was about having typos in my code because guess what? `-` !== `_`
-Also, SQLite doesn't accept `-` in the table names.
 
 While my tables were perfectly named `product_variations` and `product_images`, for some reason, on my script I decided to write:
 `"INSERT INTO product-variations (product_id, size, colour, price, stock) VALUES (?, ?, ?, ?, ?)"` and `"INSERT INTO product-images (product_id, image_url, is_main_image) VALUES (?, ?, ?)"`.
