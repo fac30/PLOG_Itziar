@@ -150,6 +150,45 @@ I decided to use a SQL Browser to visualize the data.
 
 I have to say, I had so much fun designing and creating the database 🤩
 
+## A Small Tanget
+I started to think about storing passwords in our database and read about **hashing passwords** and **salting** them.
+Hashing passwords without salting them can be vulnerable to cyber-attacks because if two users have the same password, the hash will be the same, which will make it easier to decipher. 
+
+> Let’s say that we have password farm1990M0O and the salt f1nd1ngn3m0. We can salt that password by either appending or prepending the salt to it. For example: farm1990M0Of1nd1ngn3m0 or f1nd1ngn3m0farm1990M0O are valid salted passwords. Once the salt is added, we can then hash it. Let's see this in action:
+>
+> Prepending the Salt:
+>
+> Password: farm1990M0O
+> Salt: f1nd1ngn3m0
+> Salted input: f1nd1ngn3m0farm1990M0O
+> Hash (SHA-256): 7528ed35c6ebf7e4661a02fd98ab88d92ccf4e48a4b27338fcc194b90ae8855c
+
+Different users, same password --> Different salts, different hashes. 
+If someone looked at the full list of password hashes, no one would be able to tell that two users use the same password.
+
+## Creating Custom Utilities with Tailwind
+Thanks to Dani I learned that you can create your own custom utilities, to style specific components. This way you avoid having to add all the styles classes to one button for example, and simply add the new class you have created.
+
+In the CCS file:
+```css
+@layer utilities {
+  .btn-blue-sm {
+    @apply bg-blue-500 text-white text-xs w-24 h-12 rounded;
+  }
+}
+```
+In your jsx or tsx project:
+```ts
+function App() {
+  return (
+    <div className="App p-12">
+            <div><button className='btn-blue-sm'>Small Button</button></div>
+          </div>
+    </div>
+  );
+}
+```
+
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
 This week has been the week that I realised how much I have learned in the previous 5 weeks without me noticing. 
 I did not encounter massive difficulties like I have been doing.
@@ -157,8 +196,8 @@ I did not encounter massive difficulties like I have been doing.
 However, I did have a few problems with:
 
 ### TYPESCRIPT
-I didn't have many issues with TypeScript so far, apart from forgetting to add types constantly. But this week I have found myself struggling with that a little bit. 
-These two gave me a headache, until I found out what is the err type:`(err: NodeJS.ErrnoException | null, data: string)` 
+I haven't had many issues with TypeScript so far, apart from forgetting to add types constantly. But this week I have found myself struggling with that a little bit. 
+These two gave me a headache until I found out what is the err type:`(err: NodeJS.ErrnoException | null, data: string)` 
 
 I also forgot to add the interface at the beginning, so the entire code was complaining. 
 
