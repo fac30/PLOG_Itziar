@@ -217,6 +217,10 @@ Similarly, Gaj and I were trying to find out why his functions weren't working, 
 I guess a big part of being a developer is also to be willing to spend a lot of time chasing the small mistakes.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
+> [**Course Facilitator name**]
+
+Alexanxder
+ 
 > [*What went well*]  
-> [*Even better if*]
+
+Execellent PLog Itziar, I can see your journey on SQL and looks like you are building very solid foundations. Very well done!
