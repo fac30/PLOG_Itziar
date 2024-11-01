@@ -103,9 +103,9 @@ const { id: artistId } = useParams<{ id: string }>();
 ```
 
 * Getting the correct IP address and fixing typos:
-`const response = await fetch(`http://8.171.123.115/:3000/product-images`);` ❌
-`const response = await fetch(`http://18.171.123.115/:3000/product-images`);` ❌
-`const response = await fetch(`http://18.171.123.115:3000/product-images`);` ✅
+ * `const response = await fetch(http://8.171.123.115/:3000/product-images);` ❌
+ * `const response = await fetch(http://18.171.123.115/:3000/product-images);` ❌
+ * `const response = await fetch(http://18.171.123.115:3000/product-images);` ✅
 
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
 ## Deployment
