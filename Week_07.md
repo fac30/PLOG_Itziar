@@ -195,6 +195,14 @@ So I had to do some research watching tutorials and reading about it from other 
 Implementing the login was the hardest part of using JWT for me. I need to do deep research to understand how to create the tokens.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Thorough exploration of JWT authentication with clear code examples and implementation details. Good progression from basic login/register functionality to token generation. Strong understanding demonstrated through practical examples and error handling.
+
 > [*Even better if*]
+
+Add validation for password strength during registration and implement token refresh logic for better security. Documentation comments could be more detailed for complex functions.
