@@ -121,6 +121,14 @@ I am happy I had the opportunity to learn with this amazing cohort, but I will m
 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Strong debugging skills demonstrated with specific examples and solutions. Good implementation of React carousel with clear state management and error handling. Methodical approach to finding and fixing issues, particularly with routing and API endpoints.
+
 > [*Even better if*]
+
+Show your Python learning progress with actual code examples.
